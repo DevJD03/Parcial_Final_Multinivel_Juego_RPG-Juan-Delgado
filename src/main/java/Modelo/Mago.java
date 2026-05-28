@@ -8,6 +8,10 @@ package Modelo;
  *
  * @author DeathStar
  */
-public class Mago {
-    
+public class Mago extends Personaje{
+
+    private int mana;
+    private int inteligencia;
+    private String hechizo;
+
 }

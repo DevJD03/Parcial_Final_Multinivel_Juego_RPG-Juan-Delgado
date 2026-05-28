@@ -8,6 +8,10 @@ package Modelo;
  *
  * @author DeathStar
  */
-public class Arquero {
-    
+public class Arquero extends Personaje{
+
+    private int precision;
+    private int velocidad;
+    private int flechas;
+
 }

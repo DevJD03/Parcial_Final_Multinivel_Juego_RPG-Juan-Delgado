@@ -8,6 +8,10 @@ package Modelo;
  *
  * @author DeathStar
  */
-public class Guerrero {
-    
+public class Guerrero extends Personaje{
+
+    private int fuerza;
+    private int resistencia;
+    private String arma;
+
 }
